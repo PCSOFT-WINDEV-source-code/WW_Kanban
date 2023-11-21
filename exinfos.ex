@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Kanban
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Kanban.wdp=4096

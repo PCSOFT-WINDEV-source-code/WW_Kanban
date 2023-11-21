@@ -1,0 +1,402 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IP_KanbanAdd
+ major_version : 28
+ minor_version : 0
+ type : 65542
+ description : ""
+ subtype : 0
+page :
+ name : IP_KanbanAdd
+ identifier : 0x23e9fb5a091998ac
+ internal_properties : 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
+ properties : {}
+ controls :
+  -
+    name : IP_KanbanAdd
+    identifier : 0x23e9fb5a091a98ac
+    internal_properties : CAAAAAgAAADWz1WNS+99gcucGvpm2/2NZSynOKFZIcJyCz2LXx/EAmw2gPhz4xVHMtDR9qAWdXNZJkgtLQAbvkKRJLMBsD4cj4olWQlxMhfqE82gXAFAJ1/j91hPARypw6fnEFBdR84Z6SRJZLPaBVG5O6rT/oFv/ANMIvf/fi0NzBWV/kmUtnfvFRkNrBcqjo/JbqjWSYyQF0h/p0mhZ6mT32gorimqxjgOx78P0fBaYJoB+iK8BIblpXpBSMM426NHWO/u1dysmccgI6kp5t8sfp6Uoj5mlP/fhn97QnMVscrC2WCjlC9CkllvBIDlCs58+ka9mmpY/BVdDKv1e9LbXodWlJ9Whkmf42bhcgWNwn7ecXX5rMs1F+fauIXjZw8DGGXY4c/HAELxXhvKCgli9oeYY+51sM3ukN6XWY8en/Jzz1Qz4FzlUrz6OXgyvxg5CTjhePFzL0oSFm7mGN67B3JuiSt1rS46XLyy/geNgYNNom2tgArBdq3UaI7BwU7FfzHtu3aybC1M9FJa8jIf28FXfn6OQI2rElC1uCIgLxDqMV56T0V+/XlSiAQJQZx8LLvYNVzwdhBS5J7sh3gXyRJTCANTtwUwXIDEt3pk9PK/wLtiIUN/luY2n/St1OvLgEcNftMUqC4Q+zm7NoAmAV2LFGpd1Y+uw8iwnYbwEkycJZVsT2csdWkMiq5dlKNTW6UUFSoCQOfFDVU0gzCI+usTGJwWqpchel6FPWVKhlfiQb2mWdbOXWPHdos4U9ARx7wbSMgpov+xXn/1YDbiyLfjbqWKlROGsfsmPO9t9DxUnp8Adv0dcMmEPBYKd0uHKay4YgNEUXjdkly5+JbdoKmPy6w7kYJJbp3mKpLhLxYB7mhvl4fqsUj8d41EeC/sTJDLb+pw0W9N6Q==
+    properties :
+     width : 260
+     height : 46
+    controls :
+     -
+       name : POPUP__Delete
+       identifier : 0x23e9fb5a091b98ac
+       internal_properties : CAAAAAgAAABJxBFRu3KugcUKueeNL4IHL2mhEpgA+eWhDzCG52VntJ7pNhvHKgyCkFmSGb1MTL/6FbCFylCoJVjXDOhhFx8sdCfepHpw3mGtjKgZfoEEw9x1B04TMX6eRsTM/DUrslO2XbBb8z31Jynoq82kaF0Y3ixFstPK88TLtYZeINF90rywFy29fLD/Sr0zzQUfNIr5rZDGt+D63JxAY4KpRV955uP6xgCeXBVEaofTzWTDW1JIXTOdRjCEfB8n53rooTmX0pghFd4wLBu39koNBBmI3owgFJJYX8otpCc00C13e57hmT2mzWmyl05d70xdDNgMSCwiBLGOK/3ryBKnlUpum0P1uIxsXCaHzQtTvsZTXVjqFcq/uuVMyyDZN48uElA8l1K0fW4hpjOBp2Em1URQoB7fuoK/4Hs5PzVWCpQ0LReFbUo0zlze8L5mZUYT1IUQMFMb7d2suPVGJhivSawJOaBNkL09Zf02aah0R5QdLckfR2KnG8mgK+g1u48ekcvn+eNJCnHR4oHcr3FV1R9HsmutyKlaE8pkemGns4v9dSJ+WLDuEjTIvDCPQ+UEfVo1GuV50bQ5uPJUC0HQFUTAELuZ8IKFM9erqs4AjTqyVHQw0dg8M8fDxNZHERKtUi4FKn6Z1raGIwN4EAbU8T0q6KEa4fEdZiT5B8XCpqyANuBoExVyeHZVHyeG88FX8NlpuRzV8ZTAvb7LofPH+1OUiqkUSnb7lOSVyWzPzxkzwzE2UBBwjnWhZPwGkoYLaCXDRxfHyKVMmtfoanBQ0vnM/bemcSySejyBLYST56h5DNiJl0WoIcppNuUgaPVVzsK/0v/BRXZbfuCvillnP/gcxr8kYZjn1cKGPWQtcACkDeGormztdHTryl+/o3AoKCjmGAR1HiEMENhjdC/PxBLaKfpW1p9Li9z+zrVGq9l2urqgKygBK9EDGqwGpcCUOsasylFWU7nyDoulfifVS1nM4akIew/XcXATU0z7A0UlEF7ykvgzMjv/79sOoa8kmQrGvHYYI3etR/JxT85apiEVBK8TNFLyCWaRxz5aQKebxjmhON7G/RWNfYc5r3uuCfErkCxZdDGjnI8dNSHHzc3M5AJn+x19hmeV0G2VttV3wqi2MN4tAbzANlEt561sLaumDwUwKLUWczcqrz0RQLT/AvFu0Iv6gen0+bURPnu7IEJ1zSMnue2huJPBZ4dIJDJCjpC03e20QGQku/E7Cba7YlW9j3NZQ/7ae2rkiR/hJyVCyA4hISdbYhfDBwdShauGFI145E0UTWsIaMDtGietQberM5R2yH4oQ4ncfFiy6qYdyEvXaCzY9mAtCnk5OVjDjf3QWeBRVoqNbAANEKtLPk9dq1YN
+       properties :
+        width : 402
+        height : 42
+       controls :
+        -
+          name : LINK_Cancel
+          identifier : 0x23e9fb5a091c98ac
+          internal_properties : CAAAAAgAAAAgV2cT46VwQB0Bx0WF6FWdB8f5IojMXBkYslFvSiD5MtplbnvdLXqJBnxIQAMGzN4CmvGLpHuccebFJCsdbyJXIEO5uM9JiPihhY9upBEK4qRAVjBO8qAxipDr0dAPQK9F03D4sIxTuX+kEgPDEWkMb+dcHUOjR388dNOjUeez53VPoWWKz/WpkFzcoPONWTcavH4VTfQ+i4/TA8lefkEmv0ByIG4RdC1PKFtmfw/uNj8ImOR3b7d1/R5kVhVXhEMvX8kPuurFUrm7frOOAq7vK+DzNKHv+USJoOgBHXvw1OCWWqnuwClzr/j9SWHeN6eNOWcAT3wqXzFH8ozia4bMNNkwd1PSe+p/9W1J+q3oLX14NCrOWsBrxxzJscHwii2RLMSvebVG4lJC7k6GAiMmR1ylpxRWB7fNBO1gmPbKTOkwt+D5BloU9aKdbz0gPHl3rBRpJbkH5tUcaCRFdRJ9BubwzqfsS+/o9vWr2DXCiGZngBZ+FcRvs744X2muhoMs45eNTmurGZYVgLLObDmULWdJuaq/KbNSQaaZxc2j5WwaLn1EKtlBPW3PWGr58xONHC/tSMHJuZmWdQeyAwigzMiA2520zGlaANalvGtxbcffqogdN01tTSyZOEXJ7hlrJAmVSsUYspkKHKrPkr4ToUTwyTPhuBGPnZSpTtH3MWiR/rIATMcXpN7lMvtFlMTCdUegg5z7FCB+d3QVwE7fgV6TuLmrY2gFpiXUEjQDc+H/E2ZR34Kbe6gkttqyK0YyFf02YmIjr/99JTvFo31wieYOjHpJ2OhsmP/ssZaNg0H0wDv5zdC8ZGKMn0nI/YrnDfvZK6H2BuvChHAEWv/fdlp17naQWFuQAGAnbSFWrhwc8b8PeYXDFaRj5fpIDlqxJ/MEG+aw+hIDmCH9kuZQyqlLL1dmEbZAFOuXAX4k0VCqN8HqtsWkS3HU0zsS9Rh9s2RoE4/egU/QY9+SnueYTsDsuEX5bSv9b8DEu0Y4EGRcIyOAK8Z7JC9yvemEf0Na4HBEHk4KpDnnT/n7umnAasVYmB4EFwrXdWLwGeND+MclQToa3e5CHixKVvp3Rlgo1Cy+7es5U88uKV49V7oZ0vRBofR+bC/AV2cnNnQU4GfVjEtWasMuOFxnbEdrKKXLAA4Fp9yIEsUMY9A+T1BFpeC2EI84uYmKPI0BJUhl7xzkiYQR8Uz2gkJcgjqV9zZ2ZbQ1cmADlXkGSvAh8lD8aWLEfUGJoyHFo+q75nTB0dxN7XrvwzNIwdsukR8HDWkKMVm7MuMP7TaytwP44mAJC85nD2EZrozzBSg9j6kANh5Zv0/qPx3/OuS6qngE/yGCtMtcKLZQoXzSqyrmGtVhkLQNm/dVH5gbgLiQXpcL0wvQmpuiqtXJsTDQitfn7HL9WXV8mKjsVJKQ6ZPZlg/XWPrylTD+Tjwsp91ejxnCzA5wStdpiw7Vr4TlMvrv9DLnMDvdL1aLd3t+dR/A6mNQM0TozC3z27jl9rr4ttzkRqZS1XAuZ1QyU83uoZfypOpE0k21FTcaCFbMdo41oyhkW+p7xsgVTgT7UTduAcSw9senzery2+q4vZ/0lTAmL6mw0VVYZccjwid9oYPbjbUclWz86DrkUmx3Y8jUD1V+53i50Z91UMbN2kI=
+          properties :
+           width : 400
+           height : 40
+          type : 16
+          code_elements :
+           type_code : 47
+           alias : I8
+           p_codes :
+            -
+              code : |1-
+               
+              type : 851980
+            -
+              code : |1-
+               
+              type : 851998
+              role : N
+            -
+              internal_properties : CAAAAAgAAAAbUbshpY0HFzos9eSOQ+XeCZmtxqZZrG58A2HCnw5radoA0NvwIG8c33rVAcgxg9E1QmhcsxB7/93kRXEgQTEJFUPsUicTM1WvUVuYWp/z55gkDTzi/Q==
+              code : |1-
+               if 0 < nLastCardDeleted _and_ Null <> gLastCardDeleted then
+               	ListCard.InsèreCarte(nLastCardDeleted, gLastCardDeleted)	
+               	nLastCardDeleted = 0
+               	gLastCardDeleted <- Null
+               end
+              type : 851984
+            -
+              type : 1310736
+              enabled : false
+            -
+              code : |1-
+               
+              type : 852149
+              role : N
+       type : 90
+       code_elements :
+        type_code : 120
+        alias : I7
+        p_codes :
+         -
+           type : 852298
+           role : N
+         -
+           type : 851999
+           role : N
+         -
+           type : 852279
+           role : N
+         -
+           type : 852227
+           enabled : false
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : N
+           enabled : false
+     -
+       name : BTN_ADD_CARD
+       identifier : 0x23e9fb5a091d98ac
+       internal_properties : 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
+       properties :
+        x : 112
+        y : 5
+        width : 36
+        height : 36
+       type : 4
+       code_elements :
+        type_code : 4
+        alias : I9
+        p_codes :
+         -
+           type : 851998
+           role : N
+         -
+           internal_properties : CAAAAAgAAAAbUbshpY0HFzos9eSOQ+XeCZmtxqZZrG58A2HCnw5radoA0NvwIG8c33rVAcgxg9E1QmhcsxB7/93kRXEgQTEJFUPsUicTM1WvUVuYWp/z55gkDTzi/Q==
+           code : |1+
+            
+            Carte is kbCard
+            
+            // Opens the input popup
+            PAGE_KANBAN.POPUP_KBCARD.ListCard <- ListCard
+            PAGE_KANBAN.POPUP_KBCARD.Card 	 <- Carte
+            
+            PAGE_KANBAN.POPUP_KBCARD.EDT_TITLE			= Carte.Title
+            PAGE_KANBAN.POPUP_KBCARD.EDT_DESCRIPTION	= Carte.Text
+            PAGE_KANBAN.POPUP_KBCARD.EDT_CONTRIBUTOR	= Carte.Contributor
+            
+            PAGE_KANBAN.POPUP_KBCARD.AddMode			= True
+            PAGE_KANBAN.POPUP_KBCARD.Display(popupCenter)
+            
+           type : 851984
+         -
+           type : 1310736
+           enabled : false
+         -
+           code : |1-
+            
+            if PAGE_KANBAN.POPUP_KBCARD.EDT_TITLE = "" then 
+            	SetFocus(PAGE_KANBAN.POPUP_KBCARD.EDT_TITLE)
+            else if PAGE_KANBAN.POPUP_KBCARD.EDT_DESCRIPTION = "" then
+            	SetFocus(PAGE_KANBAN.POPUP_KBCARD.EDT_DESCRIPTION)
+            else if PAGE_KANBAN.POPUP_KBCARD.EDT_CONTRIBUTOR = "" then
+            	SetFocus(PAGE_KANBAN.POPUP_KBCARD.EDT_CONTRIBUTOR)
+            else
+            	SetFocus(PAGE_KANBAN.POPUP_KBCARD.EDT_TITLE)
+            end
+           type : 852149
+           role : N
+     -
+       name : STC_DELETE_CARD
+       identifier : 0x23e9fb5a091e98ac
+       internal_properties : CAAAAAgAAAC5Sj+3N18wis4RT4MosB599amWPGwD0SZt2yRLCfrcvkSCRV5SkmdO6DFfTEz4puGbNwNCRyV03dSjl6yj60aBcykMq9QdkoojI406WQCx2jwcxgVQVm91fXdfLSQiuFAj8KcPsnQfWD8mAC0SNEJJj6j+h9iizcp5NkCxZgd16yaX9u7WESWfmLzLhXuoygYshR3JWPt5aB9XxS/NA51aE8S5H6ih5KoYNJdVDlC0Q10Io8F2x4LtRWt6N/GdWYYGrMqXB0TOETsyy2i2CJpKG+uesAqzfYPVFFB9BhCfvY0dkCr+O2jvUd8hJh6OAv1+zgcGXZR9KvJe1MvJZ7/qRr/aNQVYpOAoB04Ka/PLqJcLcvK9QuoxqLpOpKJPbwlQPzbcJVl53xp+KjkL8FAXj0cviY2r6K1lNsL59lsSRaxUlBkRB4pVk0CJJ+RsOSI5gvxyu8m/Y6kaj3t/HaK7vbOO0HxIFiKTF1jBw/I4IZMUStQL6/fhmgX6nAqksfyum+cSfPVeFJYyhrfRmtf3k9bMEYNrQbjP0bsYvYA1HXF70PR7iNuS+FEzoo2S7LYm4eDO4dV/HLpmt5S9sy/P9AwWTI/i2ebIepLHrD6fDtI4s8Vx1SVrehlyMiMkdfoBigsPHa8e8Ohx7OlzIw3fHmePFgQZYfEBQDVK2ltXgdWBZGvvs1LpXg66+I5Sc9HuSTEtXm7CMPMIkLuGVuOMETXmD1e4j1cG1PhJs9G1FpmFfz/fGAKzzhQ7fe+AeVr5sIwW4pFM4LS1d7iTckmNWiNCaYyD2Sd5RQQdP/8YmnISRApvddHpY/jBWR25IEXrZVLSqx+7WcLeJ68G9oc2hsJT2fZW5+uvF8j2az45OhZl8QIWqNkzOMDiL6TZZyf8yc4QCW2igvzRSAwXT6jHaqGChxE269U85ojj9Eqtbu6DR30UwTss2RIDfj9FcZr4xI7elQyhh5W5t++O2YYpxvLaDpNBmDv2TRH2w6Pidr1pxSZK+Umdy02yodqH5IEf+mqilXgYCTzkE57ZbkNW1XGDYqe4V8VAVFm/5VkQ11wZkw/iVVE0U3M+5gNghOTeon9dzqnI1Tn3FWOmizkoy3j6p02vXP9ljMjZ0yAR6JAva7xJNiomJ1zeMtjIRhJT4xBfjXywo7MUCEKqulpA0CnMkIQh+HecSdn+FcNMue7PS139oXm1GVsna6WBAicLcZhUkYPwgJpt7JaM0dLtvrtq+4SQBCdNizTBMh2lOllBKFDFR8VGi73lSkZLguyqGRz/h8vIRkfl8LhxkNVp1U1j1mCK/kIuH2wTLxaocVoZbJWoPthlQMBndZiI9FU+mnPpsO5DYYKcxkJe1LxNuTh6xyai+QSdt95v/cIq2TBHDoW+oI9Qz+sKcZ2ZEzsfBcde8TZsAWfOoa/rYkpr+yaEur3VY1A4+/x0jm3PeC8tjg4cRNRVgBFVcQQ2tPn9lsiLGfP0uUSkXPjQCBgw2WiJNNLKG4kQ1BfSa1DWIZh1zzQFBkx7YOQGtTQzeB1dl7WQgnAXzJynGlW2D1tQ0S/KT9vkIQ==
+       properties :
+        y : 5
+        width : 260
+        height : 36
+       type : 3
+       code_elements :
+        type_code : 2
+        alias : I4
+        p_codes : []
+     -
+       name : IMG_DELETE_CARD
+       identifier : 0x23e9fb5a091f98ac
+       internal_properties : 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
+       properties :
+        x : 112
+        y : 5
+        width : 36
+        height : 36
+       type : 22
+       code_elements :
+        type_code : 57
+        alias : I3
+        p_codes :
+         -
+           type : 851999
+           role : N
+         -
+           type : 851998
+           role : N
+         -
+           internal_properties : CAAAAAgAAAAbUbshpY0HFzos9eSOQ+XeCZmtxqZZrG58A2HCnw5radoA0NvwIG8c33rVAcgxg9E1QmhcsxB7/93kRXEgQTEJFUPsUicTM1WvUVuYWp/z55gkDTzi/Q==
+           type : 851984
+         -
+           type : 1310736
+           enabled : false
+         -
+           code : |1-
+            
+           type : 852149
+           role : N
+    type : 32
+    code_elements :
+     type_code : 78
+     alias : I1
+     p_codes :
+      -
+        code : |1-
+         procedure MyPage ( KanbanControl is Champ<server only>, ListCard is Champ<server only>)
+         
+         constant
+         	PLANE_ADD_CARD		= 1
+         	PLANE_DELETE_CARD	= 3
+         end
+         
+         nLastCardDeleted	is int				<server only>
+         gLastCardDeleted	is kbCard dynamic	<server only>
+         
+         MySelf.Plane = PLANE_ADD_CARD
+         
+         let gbCancelDelete = "" = KanbanControl..BrowsedFile
+        type : 851968
+      -
+        code : |1-
+         
+        type : 851980
+      -
+        code : |1-
+         
+        type : 852019
+      -
+        code : |1-
+         
+        type : 852018
+      -
+        type : 852298
+        role : N
+      -
+        code : |1-
+         
+        type : 851999
+        role : N
+      -
+        code : |1-
+         
+        type : 852202
+      -
+        code : |1-
+         
+        type : 852174
+        role : N
+      -
+        code : |1-
+         
+        type : 852166
+      -
+        type : 852227
+        enabled : false
+      -
+        type : 1310979
+        enabled : false
+      -
+        type : 852228
+        role : N
+        enabled : false
+      -
+        code : |1-
+         
+        type : 851970
+ type : 1
+ languages :
+  - en-GB
+ code_elements :
+  type_code : 76
+  p_codes :
+   -
+     type : 852300
+     enabled : false
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+  procedures :
+   -
+     name : DragCarte_Debut
+     procedure_id : 1453574206126217021
+     type_code : 14
+     code : |1-
+      procedure DragCarte_Debut(local Carte<useful>) <UI>
+      
+      IP_KanbanAdd.Plane = PLANE_DELETE_CARD
+     type : 458752
+     role : N
+   -
+     name : DragCarte_Drop
+     internal_properties : CAAAAAgAAACBdsRVwU8cN2Yh0ldYjLDlVlE3vM3JE+fvmbOB1z+l+nqn7fo9lONUWlrekykE6fTbl+GH9F26N0Ch1fZ/r3fcOZWBOVCnQW/dHvpPuUf2XbfslfvFl+ipXQqEP9w8I1GPkTDnhroP+grdC4TZTU4Ee6oW0uQKqp94LZfOa10ODQ==
+     procedure_id : 1453574206126282635
+     type_code : 14
+     code : |1-
+      procedure DragCarte_Drop(local Carte<useful>, local nIndice is int) <UI>
+      
+      // On ne mémorise que la dernière carte supprimée, donc on ferme tous les précédents toasts.
+      ToastDeleteAll()
+      // Suppression de la carte par le code serveur AJAX.
+      AJAXExecute(ajaxUpdateControls, DragCarte_Drop_Srv, nIndice)
+     type : 458752
+     role : N
+   -
+     name : DragCarte_Drop_Srv
+     internal_properties : CAAAAAgAAAAL/ifzaJnlUYqkiCAlUcUX+FG/pZbpRLS6Smx74+5uNWpVR6h1jzjEBF/logkZ/PikVY1978vMROhiVrtB8P56om7B62JH0XDj295dEWoudP1haTbn9Mxt4n1sG5fzCGrrGDYUR4WbFfW+z3+8S/aqMkCjlGpbihuF3YxwpTURoWpa+WmrJFpvedJ1KRmcBt56mID4fKA3HZQnYmmP
+     procedure_id : 1453574206126348202
+     type_code : 14
+     code : |1-
+      procedure DragCarte_Drop_Srv(nIndice is int) <UI>
+      
+      // Sécurité supplémentaire : vérifie que le champ kanban n'est pas actif.
+      if Active <> KanbanControl..State then
+      	return
+      end
+      
+      let Carte <- ListCard[nIndice]
+      
+      // Exécution du traitement de suppression. Si celui-ci renvoie Faux, la suppression est abandonnée (la carte est conservée).
+      if ExecuteProcess(KanbanControl, trtDeleteKanbanCard, Carte) = False then
+      	// on annule
+      	return
+      end
+      
+      nLastCardDeleted = nIndice
+      gLastCardDeleted <- ListCard[nIndice]
+      ListCard.SupprimeCarte(nIndice)
+      
+      // On affiche un toast pour permettre d'annuler la suppression de la carte.
+      if gbCancelDelete then
+      	ToastDisplayPopup(POPUP__Delete)
+      end
+     type : 458752
+   -
+     name : DragCarte_EntreeSurvol
+     procedure_id : 1453574206126413769
+     type_code : 14
+     code : |1-
+      procedure DragCarte_EntreeSurvol(local Carte<useful>) <UI>
+      
+      //LIB_SUPPRESSION_CARTE..PoliceGras = Vrai
+     type : 458752
+     role : N
+   -
+     name : DragCarte_Fin
+     procedure_id : 1453574206126479337
+     type_code : 14
+     code : |1-
+      procedure DragCarte_Fin(local Carte<useful>) <UI>
+      
+      IP_KanbanAdd.Plane = PLANE_ADD_CARD
+      //LIB_SUPPRESSION_CARTE..PoliceGras = Faux
+     type : 458752
+     role : N
+   -
+     name : DragCarte_SortieSurvol
+     procedure_id : 1453574206126544888
+     type_code : 14
+     code : |1+
+      procedure DragCarte_SortieSurvol(local Carte<useful>) <UI>
+     type : 458752
+     role : N
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : PI_SansNom1
+resources :
+ string_res :
+  identifier : 0x134d8df32268725c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+webification :
+ internal_properties : CAAAAAgAAACYzxT95H3qP7nIys4LqA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

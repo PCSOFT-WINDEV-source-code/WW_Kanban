@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Kanban
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : CAAAAAgAAAAL5Boj+QmbXUc0HywGkn8bBVut0ni8k0sOHv3irq8VEAz8SDeI44efiIVSEu6F11xQi83G3sxB/BId2ZfFPxtJ3TgYoJoCX/eL1CXLYuMDcbHIdfc6PcAPbEVWqNFB5Linl/obREMV05hOMUTuFtXrQ/9McwXiMdkpAbAab4dbGdxoN1/jX3qRjlxe5VFPqBRuqJrboH28GRKGwXGaqF4BtWakEcVDTjrW/qvnyAjEPBNOjhKsf0OeCTF6i6jyAplAV8VDyezikY2716HtTYR67yrrwRwjt3ymAfw9VHZtZGsmrcPtzoC7MHa2vueCIVlrepFe9Or33tnjNZsmKcoxne4AimTziPdZlLIzWMg4DipPHSIoQCuoiNlikJCzx19wZ80kKsSp6uR+jK1HuRLxdIUxtJ58ywxrw5dyC02tk/fN2HK9elmaBrhPNgEms6/0/oNnJI9LPE8cq++MzvktHXk0Mas7L9mfcFrjgm+4Eyi2lmrYV7vGgOI6P4xfM/QlSnVZz8Sfl0BoTZI4Ila5fPfZtkH9QMDX5CvIKzKBfMesIr2qI7YlypKhK0/qRhY0bjCKHIZhGydrSSc16hntbPzE97BejewRuusqKR4/qNh69brM+sjOqw6zVDkw/8oztxjatKv4G6f8IbqsHb6RsHq5V3NLz+i7mZD8dBhjtwzQFpcWKvn9PDycsmHtfS+NsU838rm/jkRj8oHniKHJ5ffM5lHVFzXGWt2EOAnhBa6WMTl2LlukZonPsAJFgbnaOn+mdQivX38bqHyHDCKMeOJu3sI0p+E+c3rDGdLLakWq98XkzXENSFOxPdkZyPHAaj0L17Ff1CecOr4C4v8tiLD3VXAiMfROUyWoCCJh3V8S/LBdOUnHzkLxLgFkU5ZFwUx5N3yDJz5FEu9YNs4LVLIosUIbfxMxgzfbZ2iKYEI8Jr7ffEy8YL+45F2UaUz0t4GhYykWrhNcu1J3zt4HSLv8ESqLW7BsOqwscP7CXlU23bExxFKA42p5qO1OMwbC2AIJsBrl/SJ2/VBCqzql81vZgG+FQcveaRKLuHjCFTHRrYfhzysjiDNjOqypRvg9JKokFmiBDZJSQE1Q7JUhZMFfeIHxH9JGgTa9lcySM3ixzPRUzFNsj0jYcoLimEtDq148MAKUG5wvJ/fF5p+CAmO0rTwSYoXYdpozvIfGYnllXSX24WBZhYVizQcrGvE8CA6RKiLojrtYRgTbOIvn7hdpmBF2KC5ZGJRrTyCe6AoXaqWfq8CZ4rqrbC1nUbeeuwcKyT+Xp1a+ZG123kuR2z3UBwD3/bEYSL06i4K1si5285SSgMVASDS+vxnj3JSoV+SOIdnY77RLN6yfl/qTVY6ogtVJTh2tDBqyVrrxxnfZasB0Bs7I6jUphi7JxoPskgKh0wYeF0qhGepA/ZQNzhwbgLAJSjlp/lpQDcmguMghchIevFe0Jm8lMZzY7g+wCIjusZpmAi7DZv6GjWc1J7ox7AxnMJQ+hCEWXz3WmtckUqN71NKai6ETc7etIaqm8+lJiJEYZCT5wgZiNUyKE9LcSXGfUmyZ+aOxD+6dsmQjNk1cSKe6SAgm1VqRGWwfc9+ZNcO7mPPOkg1+2HTSv7hX01ZoOCo8AWQHB+ONayq3SpKwTQzuPDee8JYPlhToxq+WN7UxGIO2YF4OaDgwyVxVZPrttXnGT0G09cC8lVT2oJg2QCjV8YwhTJVePuXuVeDschguLk7wL4CcTl/A2XIAKxsLPnuZSgXvnFstI9ppyI48OU2TgJuj+CNU9J5NJOdxzqat0afVF+6XeUX4wuPtThvKUQCL2HM8LARRlc5bum/lu3+Se1Ydm2io6eEzwSoVohPsptkzKsCSskidTj3VQOd3GajxXZOVDUfycWr0fdKlE8uA/DCoKTFGYPdpO5rR3/JXISsldFlLHiYBqUkM4jzdVwobodepMa68dnRak8R2R4Kiu4vUrgKk5SN7ox0bWqYl+fOblpSpq0xoYbNKr7US54QLDyvKhFQjYCKuHbtg+8G0wY18fInhzGFEgWVS2Snf7CWn41JRpnb0+1Xgqo5LrFrvuSAd+8LkqToRQwBIXJjVsLlBx+2CrLOBuuBa+g8DJTvrwN1UhmPgc41kwK/g4OZRMjYFI0i7sBOMdZTYRX4Z3WgZQwLW9BKYdpPG60EK98v2aH/KT6tuL4auaAVmFqpuPYcB1WJ/iQLf7t7+Q74UcCIEFOdHS2whVzzVVx1i+pCgXoaC1fklJ+v2Ch227LiD3JECIbz4xNrTNGsVmxyJqe/2B3tsl3j+TjDMebg2iJRZ0OJPSic8yxcBTscCRy3Qhi9fNwn/klM7AMHcXTbLvGSP9ngOF1mgldjnC8cJmwNwONggP+DBo7sP9sY/xD51Mv1f7hScAAANM4Ip8LLT3A+TbkFRFcdhYlyxftL+g7df/bJ/lORr4avXzJRfcsCXCEN0l3qyF+WVs2x7Tw9I6EWn7Mv482nY2qjLkOJGwFBTZBSHhtIHrn5rHvVRNg8AFfhqXXprJeBVNZiElC6bP7bkFOPB2sxwETt0Ps1OQlrbOqTXGIlTj/9HJrGSgZWS00cUzlsSotWzcPdlcvTJllIAUMj8Jdtr1fMuiiWdG/3Gr/Cj7LwBB3WiJXwZBuW9Y9i9N15u1jL+mgciqFQsJ6QSRNxn65LxGWVZ/3yrJ7JPBcHEH9e6AuoeMwkVyl20n/p7Zl6x1M+4zO19p1HGv7RR4gHC+V/qyEM2qaUw/HUhBFADI8Ol/N+u6VdbVzqtnwNEokSF+flQTpdPIGBhAzQgv7tO0u/5UfSqBYaKhuNaPTYJ5uraWEdigxStxJyvlipgLiu0CA7Kov7wg+DjF/Aeo9RqvjC0w34RKEwPZEwnW1LT3vjc3Utjaj6CelIjupJgeby8zGhCIiCRfCQf5nLqPgW6vD+hbZfyyS/cE0/FGA+iEg1QlwTOqAARn1wtOscssAm2WyhAQMfSzF+h/s8uUZS/tsaLEcJBje3XWOYX41u7LZpNiQqqBaGMxMWNw1EtxRDdgSButI+2MSteOyAHYAPiiirUMEmw+cLqzerpWxeWeab4ZwUecfKRQTutIvp6oUEhEk6+WjOaACVG6uNXMkZnmMoN9ZMDWlf1kI7BGxaUS1xzPSIVAtZTLa8tygV1eIt93zcckFJCc/JqH5LcF2mdqoxUhL1fzs232P8wGNsOnYZpf2k9HobvCYEfjKoKTbRfje3OVGhr/PrBNvQLwiPV0nCNy5lVNFEOAwFy7KFZKP8hZ9FYC9Sfua5n0GJqNUwrCfxPx0HFAoLrrDkT/os/+JdejtO+/RiUqRbm1qaVgOKRI5OKd6PyPrxXYBBxvEn7CU9DT0l6kwMzVFGTPltNKpzqkrmsUPjijaFiHvH/ePQRk4V4pcl+Oi7mu6UKTSQAjMjURg3Q39hoQYj4b4K4MRZpD6Poj3XHoMABYTz55sNbfWGd/lSLBQaELTfm2b4K4ld2ArltuLqJXmiucT5iz7tA/Mikn4wXEiIycOBJIv7v5VSF2A69XznwbadadQia2sNmYuXqPyo+D0Y0MZaXmCkGRP7bWkYVPtonV71I7b2Jk6dY733zbSE5GogA24O+NtyhsfaDeti5Vo2J7pB+P/O1aZhYa/q05bSC1r1F4LvBf2LTgtaSfnR5Ir0ppEBxi4JZB++sdQ55HrmFsDtnmF8fK/KOLQz7dqzAOpx3eOOw5Mpt/iIOHtHoCSZYSysu7lMq3NwKa1gmq+MNtAYPnAPZEbS+1VfU29FZvfHXOKp5v9Zoc38mwkAp2nNptIL8hNUxRcMZxJZnEEjuk+5cyR4urP/i8Un4a97ZCbaNejCD2SS+Gwc6fn7t1kduyVAfRc7p/bdhODInIN4xIHugSY4DU3vL8pv4pYka5LNqV5J0VJ/d1BkNp596OyhFQBWcUFQhhcKp2l/+O48JjucxhgtoyHsLfvFTTFgLJZzQYc1rRV3Zar7zZV83TPv0z7HK1rMJETNg/ZbkdSfMBdBCA2LN6Z0tCCzbnrudMcEbAmc/XSF0q/RsKAd/lOedEGCgXAHeNrLxLpTzjKtXziaIEbblL8CPpl2rxgF1ZbKgMiiminWgW4lhU0qs/fru0eBpr5xTE1V06/jEhc+sNwAoTTLMGM33npRfyELUzgFPzFZJ/4OhgCChRP1TSMyGFevY0KzdCT0BJK8TSD7Cy+PTbJjNtwd/ClK8u0fdM0FhmoBnRQOa8zmA/LXEBedX1nKgiFNMnd/Sh3v5squGi16u301aBCEjklOn+N+jMwd5UFF2zw7YmViRX1fAjaqr6jiFC3jpVUQ2hMab+LGxXLTNOX5/+BN9+DaVos72Cg9rrgWJCDbuk9APXY9JVqqqoStRP39dAdLrzea2XpB2YuqrQ5MrDx3N1GU9GIJU0K7BvDbU+BQ8ePzGuujjO4RPpbB4UCyCJcYFJG5LKK5GInIGM8RK3Y95zGGtXOCMT4jWZzBwtMJky9jr2VJsxTOcYvtkNCDTN9OEpzsmA/JNOg+p/kOJUV0SvVOLZspw7CN8PVplG6v828NSxnMmv3GOLf6/9ZChbaVmtTa0DRmwJfj+TjekNKLgv+pY8RRbyZvGmYnCmkkjbXR86Y0ekl1bOgCbXlFWXO7pZBIghevl0DLQsQiKPhmCXNZW5LqB7tUG3B20ZXzaVdVzcqwx+gI=
+    configuration_id : 2711302272752145207
+    type : 2
+    generation_directory : .\Exe\Site
+    generation_name : WW_Kanban.wdl
+    version :
+     major_version : 28
+     minor_version : 66
+     internal_generation_version : 1
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x43749f0e00059456
+  elements :
+   -
+     name : PAGE_KANBAN
+     identifier : 0x4374ca5f0034ca55
+     internal_properties : CAAAAAgAAAAtL5t3QH1lFhqIcREe4lfXn2tEXn6WzJ2xRRLf+Fx9rSnQurknqIEq3MgTrJdzzDco
+     physical_name : .\PAGE_KANBAN.wwh
+     type : 65538
+   -
+     name : IP_KanbanAdd
+     identifier : 0x4374e9bb008449b5
+     internal_properties : CAAAAAgAAAC7l+MnhMFpcnwjvP54z+s1UyIKoh6UN4RQIN/u8zDazj6WPQx1izCBHQT++ro2wjaepg==
+     physical_name : .\IP_KanbanAdd.wwh
+     type : 65542
+   -
+     name : IPAGE_KANBAN_CARD
+     identifier : 0x4374ca60003eccd5
+     internal_properties : CAAAAAgAAABFN3MfmOU9LqKElxEqEpuP64sitqQH4N3oIuWhuByHR3ei9AuZjj1SNJBrFD/bZE/A
+     physical_name : .\IPAGE_KANBAN_CARD.wwh
+     type : 65542
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ wb_skin : 260 Winki
+ wb_color_palette : Blue Cloud
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Kanban.sty
+ wb_style_sheet : .\WD Kanban.wws
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_KANBAN
+     parameters : []
+     title :
+      fr-FR : WD Kanban
+      en-GB : WD Kanban
+     description :
+      fr-FR : WD Kanban
+      en-GB : WD Kanban
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAADZxIbw/072dVDpEhvgdkzYlXdSIuak1UuVcUYOGm0qwbElQ036wWSo6L80lEX0qLbW1O+rG5icQYjTxAOg09KoQSIaNvI=
+  type_code : 0
+  p_codes :
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4374ca5f0021c851
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
